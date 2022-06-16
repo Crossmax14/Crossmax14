@@ -2,7 +2,7 @@
 
 [![Facebook][Facebook-shield]][Facebook-url] [![Instagram][Instagram-shield]][Instagram-url] [![LinkedIn][linkedin-shield]][linkedin-url] 
 
-[![Github Stats By Crossmax14](https://github-readme-stats.vercel.app/api?username=Crossmax14&hide=prs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crossmax14&theme=solarized_dark)
   
 
 Stack I work with: React, Typescript, C#, Node.js. Ate teeth on the creation of Sharepoint portals, in particular on the creation of SPFX.
