@@ -17,6 +17,6 @@ Stack I work with: React, Typescript, C#, Node.js. Ate teeth on the creation of 
 [facebook-shield]: https://img.shields.io/badge/Facebook-white.svg?style=flat&logo=facebook&colorB=555&color=black
 [facebook-url]: https://www.facebook.com/maxcreate14
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555&color=blue
-[linkedin-url]: https://www.linkedin.com/in/maxim-pidobid-b609a918b/
+[linkedin-url]: https://www.linkedin.com/in/maksym-pidobid-b609a918b/
 [instagram-shield]: https://img.shields.io/badge/Instagram-white.svg?style=flat&logo=instagram&colorB=black&color=white
 [instagram-url]: https://www.instagram.com/crossmax14/
